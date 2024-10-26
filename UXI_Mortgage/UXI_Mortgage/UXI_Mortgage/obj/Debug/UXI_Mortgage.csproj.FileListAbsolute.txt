@@ -1,0 +1,40 @@
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.AssemblyReference.cache
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.MortgageForm.resources
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.Properties.Resources.resources
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.GenerateResource.cache
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.CoreCompileInputs.cache
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe.config
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.pdb
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.exe
+C:\Users\SibabaloMangele\source\repos\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.pdb
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe.config
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.pdb
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.AssemblyReference.cache
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.MortgageForm.resources
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.Properties.Resources.resources
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.GenerateResource.cache
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.CoreCompileInputs.cache
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.exe
+C:\Users\shpctac0fff9\Downloads\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.pdb
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe.config
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.pdb
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.AssemblyReference.cache
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.MortgageForm.resources
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.Properties.Resources.resources
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.GenerateResource.cache
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.CoreCompileInputs.cache
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.exe
+C:\Users\shpctac0fff9\Downloads\My C# Project\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.pdb
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe.config
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.exe
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\bin\Debug\UXI_Mortgage.pdb
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.AssemblyReference.cache
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.MortgageForm.resources
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.Properties.Resources.resources
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.GenerateResource.cache
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.csproj.CoreCompileInputs.cache
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.exe
+C:\Users\ymgul\OneDrive\Documents\WorkPlace\Asavela's Projects\System Development\Folders\C#\UXI_Mortgage\UXI_Mortgage\UXI_Mortgage\obj\Debug\UXI_Mortgage.pdb
