@@ -23,4 +23,8 @@ jobs:
       uses: NuGet/setup-nuget@v2.0.0
 
     - name: Restore NuGet packages
-      run: nuget restore BugGadiant.Calculator.sln
+      run: nuget restore BugGadiant.UXI_Mortgage.sln
+
+    - name: Building
+      run: msbuild BugGadiant.UXI_Mortgage.sln
+
