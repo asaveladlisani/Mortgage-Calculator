@@ -22,16 +22,16 @@ jobs:
         dotnet-version: '7.x'
 
     - name: Restore dependencies
-      run: dotnet restore path/to/your/projectfile.csproj
+      run: dotnet restore UXI_Mortgage/UXI_Mortgage/UXI_Mortgage/UXI_Mortgage.csproj
 
     - name: Build
-      run: dotnet build path/to/your/projectfile.csproj --configuration Release --no-restore
+      run: dotnet build UXI_Mortgage/UXI_Mortgage/UXI_Mortgage/UXI_Mortgage.csproj --configuration Release --no-restore
 
     - name: Run tests
-      run: dotnet test path/to/your/projectfile.csproj --no-restore --verbosity normal
+      run: dotnet test UXI_Mortgage/UXI_Mortgage/UXI_Mortgage/UXI_Mortgage.csproj --no-restore --verbosity normal
 
     - name: Publish
-      run: dotnet publish path/to/your/projectfile.csproj --configuration Release --output ./output
+      run: dotnet publish UXI_Mortgage/UXI_Mortgage/UXI_Mortgage/UXI_Mortgage.csproj --configuration Release --output ./output
 
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
